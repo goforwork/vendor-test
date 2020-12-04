@@ -1,0 +1,12 @@
+{
+	"name": "goforwork/vendor-test",
+	"description": "vendor test",
+	"require": {
+		"phpunit/phpunit": "4.8.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"ODPS\\": "src"
+		}
+	}
+}
