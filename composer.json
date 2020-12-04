@@ -1,6 +1,7 @@
 {
 	"name": "goforwork/vendor-test",
 	"description": "vendor test",
+	"type": "library",
 	"require": {
 		"phpunit/phpunit": "4.8.*"
 	},
